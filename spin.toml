@@ -1,7 +1,7 @@
-name = "bartholomew-template"
+name = "joao-website"
 spin_version = "1"
 version = "0.1.0"
-description = "Your new Bartholomew website."
+description = "My new Bartholomew website."
 trigger = { type = "http", base = "/" }
 
 [[component]]

@@ -1,11 +1,11 @@
 title = "Your Site Name"
 # logo = "URL to logo"
-base_url = "http://localhost:3000"
+base_url = "http://spin-deploy.joao-website.hippo.joaodemacedo.com"
 about = "This site is generated with Bartholomew, the WebAssembly micro-CMS. And this message is in site.toml."
 
 [extra]
-copyright = "The Site Authors"
-github = "https://github.com/fermyon"
-twitter = "https://twitter.com/fermyontech"
+copyright = "2022 João De Macedo"
+github = "https://github.com/joaogdemacedo"
+twitter = "https://twitter.com/joaodemacedo134"
 
 date_style = "%B %e, %Y"
