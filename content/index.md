@@ -12,10 +12,10 @@ Hi there, my name is [João Gonçalves De Macedo](https://www.linkedin.com/in/jo
 
 I have recently finished a Master’s Degree in Software Engineering at the [University of Minho](https://www.uminho.pt/EN). With my dissertation research, WebAssembly became my main interest. Thus, learning Rust is one of my main goals in order to be part of WebAssembly’s future. I am not an expert. However, one of the most important skills I learned at University is to be self-taught. Overall, I am a happy guy 😁
 
-> **At this moment, I am looking for my first job/internship in WebAssembly or Rust, but it hasn’t been that easy. Please take a look at [My first blog post](/firstpost) to read my testimony of these months of looking for my first job.**
+> **At this moment, I am looking for my first job/internship in WebAssembly or Rust, but it hasn’t been that easy. Please take a look at [My first blog post](http://spin-deploy.joao-website.hippo.joaodemacedo.com/firstpost) to read my testimony of these months of looking for my first job.**
 
-<!-- [![styleguide-logo](https://cdn-icons-png.flaticon.com/256/6051/6051393.png)](https://design.fermyon.dev/)
- -->
+![styleguide-logo](https://cdn-icons-png.flaticon.com/256/5578/5578628.png)
+
 ### Publications 📖
 
 During my last two years at University (2019 - 2022), while completing my Master’s Degree and later my dissertation, I joined a Research Laboratory called [INESC TEC](https://www.inesctec.pt/en). The team I was in, [Green Software Lab](https://greenlab.di.uminho.pt/), works on reducing energy consumption across various computing systems.
@@ -43,6 +43,8 @@ My only experiences in software engineering close to a professional environment 
 - 2021 to 2022 - [INESC TEC](https://www.inesctec.pt/en)
 - 2020 to 2021 - Project with [OutSystems](https://www.outsystems.com/)
 
+
+[![gotofirstpost](https://cdn-icons-png.flaticon.com/64/8196/8196719.png)](http://spin-deploy.joao-website.hippo.joaodemacedo.com/firstpost)
 
 <!-- ### Know me better
  -->

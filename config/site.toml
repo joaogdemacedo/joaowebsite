@@ -1,7 +1,7 @@
-title = "Your Site Name"
+title = "Joao Macedo WebAssembly Blog"
 # logo = "URL to logo"
-base_url = "http://localhost:3000"
-about = "This site is generated with Bartholomew, the WebAssembly micro-CMS. And this message is in site.toml."
+base_url = "http://spin-deploy.joao-website.hippo.joaodemacedo.com"
+about = "My name is João De Macedo, and this is my WebAssembly Blog."
 
 [extra]
 copyright = "2022 João De Macedo"

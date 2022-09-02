@@ -20,6 +20,8 @@ In this blog post, I will tell you about these last months, what I had learned, 
 For you, this may seem banal, but putting this blog live means a lot to me. To put this running, I needed to learn [Fermyon](https://www.fermyon.com/) tools ([Spin](https://github.com/fermyon/spin) and [Bartholomew](https://github.com/fermyon/bartholomew)), [Amazon Web Services](https://aws.amazon.com/pt/), [Google Cloud Platform](https://cloud.google.com/), and [Cloudflare](https://www.cloudflare.com/), and this hasn't been easy. Fortunately, people from the other side of the world have helped me solve all my problems.
 
 <!-- Ideally, for SEO there should be an image after the first paragraph or two -->
+![styleguide-logo](https://cdn-icons-png.flaticon.com/256/6114/6114045.png)
+
 
 ## My first-job hunting marathon 🏃 (when is this end?)
 
