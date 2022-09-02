@@ -1,6 +1,6 @@
 title = "Joao Macedo WebAssembly Blog"
 # logo = "URL to logo"
-base_url = "http://spin-deploy.joao-website.hippo.joaodemacedo.com"
+base_url = "https://spin-deploy.joao-website.hippo.joaodemacedo.com"
 about = "My name is João De Macedo, and this is my WebAssembly Blog."
 
 [extra]
