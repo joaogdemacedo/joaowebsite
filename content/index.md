@@ -8,9 +8,9 @@ urltwitter = "https://twitter.com/joaodemacedo134"
 urllinkedin = "https://www.linkedin.com/in/joaodemacedo134/"
 ---
 
-Hi there, my name is [João Gonçalves De Macedo](https://www.linkedin.com/in/joaodemacedo134/), I am 26 years old, and I am from Amares, Portugal. This is my Blog Website entirely served from WebAssembly modules, thanks to [Fermyon](https://www.fermyon.com/).
+Hi there, my name is [João Gonçalves De Macedo](https://www.linkedin.com/in/joaodemacedo134/), I am 26 years old, and I am from Portugal. This is my Blog Website entirely served from [WebAssembly](https://webassembly.org/) modules, thanks to [Fermyon](https://www.fermyon.com/).
 
-I have recently finished a Master’s Degree in Software Engineering at the [University of Minho](https://www.uminho.pt/EN). With my dissertation research, WebAssembly became my main interest. Thus, learning Rust is one of my main goals in order to be part of WebAssembly’s future. I am not an expert. However, one of the most important skills I learned at University is to be self-taught. Overall, I am a happy guy 😁
+I have recently finished a Master’s Degree in Software Engineering at the [University of Minho](https://www.uminho.pt/EN). With my dissertation research, WebAssembly became my main interest. Thus, learning Rust is one of my main goals in order to be part of WebAssembly’s future. I am not an expert. However, one of the most important skills I have learned at University is to be self-taught. Overall, I am a happy guy 😁
 
 > **At this moment, I am looking for my first job/internship in WebAssembly or Rust, but it hasn’t been that easy. Please take a look at [My first blog post](http://spin-deploy.joao-website.hippo.joaodemacedo.com/firstpost) to read my testimony of these months of looking for my first job.**
 
@@ -33,7 +33,7 @@ Therefore, I choose WebAssembly as my dissertation theme, and here I am with two
 2. [On the Runtime and Energy Performance of WebAssembly: Is WebAssembly superior to JavaScript yet?](https://ieeexplore.ieee.org/abstract/document/9680302?casa_token=Lr5eizKsKJgAAAAA:Bd_wx3iJNR0ZJarQOVQ1x1PuIm0T43PYS4SMsnMYR5DFjmNKLjsAmHHr6CuQXjz2P-BgiN5C)
 3. [WebAssembly versus JavaScript: Energy and Runtime Performance](https://ieeexplore.ieee.org/abstract/document/9830108?casa_token=M_jQF_B9QXwAAAAA:z3foTA5w4lFOo860_ZPMhL2hjnzQZnHYZtDIyAiOVDTLTNicQMOgfXGQVr2-ZSidV5fxAZY)
 
-### Experiences 🧑‍💼
+### Experiences 💼
 
 At this moment, my professional experience is scarce. I've worked all summers since my 18s, but not in software engineering. I've worked in my family's garage ([Auto Feira Nova](https://autofeiranova.negocio.site/)), and I still do when I have free time - e.g., Saturday morning - to help my family's business.
 
@@ -44,7 +44,7 @@ My only experiences in software engineering close to a professional environment 
 - 2020 to 2021 - Project with [OutSystems](https://www.outsystems.com/)
 
 
-[![gotofirstpost](https://cdn-icons-png.flaticon.com/64/8196/8196719.png)](http://spin-deploy.joao-website.hippo.joaodemacedo.com/firstpost)
+[![gotofirstpost](https://cdn-icons-png.flaticon.com/64/8196/8196719.png)](https://spin-deploy.joao-website.hippo.joaodemacedo.com/firstpost)
 
 <!-- ### Know me better
  -->
