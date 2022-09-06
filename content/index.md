@@ -12,7 +12,7 @@ Hi there, my name is [João Gonçalves De Macedo](https://www.linkedin.com/in/jo
 
 I have recently finished a Master’s Degree in Software Engineering at the [University of Minho](https://www.uminho.pt/EN). With my dissertation research, WebAssembly became my main interest. Thus, learning Rust is one of my main goals in order to be part of WebAssembly’s future. I am not an expert. However, one of the most important skills I have learned at University is to be self-taught. Overall, I am a happy guy 😁
 
-> **At this moment, I am looking for my first job/internship in WebAssembly or Rust, but it hasn’t been that easy. Please take a look at [My first blog post](http://spin-deploy.joao-website.hippo.joaodemacedo.com/firstpost) to read my testimony of these months of looking for my first job.**
+> **At this moment, I am looking for my first job/internship in WebAssembly or Rust, but it hasn’t been that easy. Please take a look at [My first blog post](https://spin-deploy.joao-website.hippo.joaodemacedo.com/firstpost) to read my testimony of these months of looking for my first job.**
 
 ![styleguide-logo](https://cdn-icons-png.flaticon.com/256/5578/5578628.png)
 
