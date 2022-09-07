@@ -1,5 +1,5 @@
-title = "Bem vindo to my WebAssembly Blog"
-template = "main"
+title = " to my WebAssembly Blog"
+template = "mainbemvindo"
 date = "2022-05-07T00:22:56Z"
 [extra]
 urlgit = "https://github.com/joaogdemacedo"
