@@ -7,7 +7,7 @@ tags = []
 author = "João De Macedo"
 type = "post"
 urlgit = "https://github.com/joaogdemacedo"
-urlcv = "https://drive.google.com/file/d/1dfAu_g-oXwyr4lxXGHHTHG-n30CjBQhr/view?usp=sharing"
+urlcv = "https://drive.google.com/file/d/1OermH5z3TUXyb7qoPQ78tGTXHJKuhaV_/view?usp=sharing"
 urltwitter = "https://twitter.com/joaodemacedo134"
 urllinkedin = "https://www.linkedin.com/in/joaodemacedo134/"
 
@@ -48,3 +48,5 @@ You can say that I am being greedy. I probably could already have a job here in 
 Thanks for reading!
 
 > **PS, I hope you, reading this, are my lucky charm and know some job openings or internships for me. Please get in touch!**
+
+[![gotofirstpost](https://cdn-icons-png.flaticon.com/64/8196/8196719.png)](https://spin-deploy.joao-website.hippo.joaodemacedo.com/firstcontribution)

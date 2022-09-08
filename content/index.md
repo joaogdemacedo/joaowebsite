@@ -3,7 +3,7 @@ template = "main"
 date = "2022-05-07T00:22:56Z"
 [extra]
 urlgit = "https://github.com/joaogdemacedo"
-urlcv = "https://drive.google.com/file/d/1dfAu_g-oXwyr4lxXGHHTHG-n30CjBQhr/view?usp=sharing"
+urlcv = "https://drive.google.com/file/d/1OermH5z3TUXyb7qoPQ78tGTXHJKuhaV_/view?usp=sharing"
 urltwitter = "https://twitter.com/joaodemacedo134"
 urllinkedin = "https://www.linkedin.com/in/joaodemacedo134/"
 ---
